@@ -127,6 +127,7 @@ TinyML 的例子，适合玩 AI/ML/CV 炼丹的同学，感兴趣可以看看，
 2. 计算机(分布式)系统/网络方向的 phD 是一种怎样的体验？ - thinkingaboutzu 的回答 - 知乎 https://www.zhihu.com/question/270557092/answer/2526209641
 3. 非机器学习方向的 CS PhD 有必要读么？ - 知乎 https://www.zhihu.com/question/307580157
 4. 交大IPADS实验室，国内最强的System实验室 - https://ipads.se.sjtu.edu.cn/zh/publications
+5. 准备申博，有哪些好的网站能找到合适的教授或项目？- 孙挺Sunt的回答 - 知乎 https://www.zhihu.com/question/328584479/answer/3170617473
 
 欧陆留学基本知识入门：B 站 [Marcsims](https://space.bilibili.com/194560) 及算法推送的同风格系列视频
 
