@@ -14,6 +14,7 @@
 6. “为”制造业写代码和“在”制造业写代码 https://www.1point3acres.com/bbs/thread-937678-1-1.html
 7. 德国CS找工作 https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide
 8. 当代码为王：掌握卓越的汽车软件 https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-code-is-king-mastering-automotive-software-excellence
+9. 该不该放弃嵌入式，单片机这条路？ - 梦人亦冷的回答 - 知乎 https://www.zhihu.com/question/370606355/answer/186592038
 
 ​ 本文分成两个主要部分：1.嵌入式软件工程师职业路径 2.欧陆 CS 留学
 
